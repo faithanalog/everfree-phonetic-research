@@ -1,4 +1,4 @@
-# [everfree-phonetic-research][]
+# everfree-phonetic-research
 
 I'm experimenting with algorithms for mathematically calculating the phonetic similarities between words. The purpose is to use this to help with the creation of vocabularies for voice control software.
 
